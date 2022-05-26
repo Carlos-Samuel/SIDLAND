@@ -1,0 +1,32 @@
+ALTER TABLE t03_t01
+    ADD CONSTRAINT `fk_relacion_2` FOREIGN KEY (t03id)
+        REFERENCES t03proyectos(t03id);
+
+
+ALTER TABLE t04ponencias
+    ADD CONSTRAINT `fk_relacion_3` FOREIGN KEY (t04autor)
+        REFERENCES t01miembros(t01id);
+
+ALTER TABLE t05_t01
+    ADD CONSTRAINT `fk_relacion_4` FOREIGN KEY (t05id)
+        REFERENCES t05revistas(t05id);
+
+ALTER TABLE t05_t01
+    ADD CONSTRAINT `fk_relacion_5` FOREIGN KEY (t01id)
+        REFERENCES t01miembros(t01id);
+
+ALTER TABLE t06_t01
+    ADD CONSTRAINT `fk_relacion_6` FOREIGN KEY (t01id)
+        REFERENCES t01miembros(t01id);
+
+ALTER TABLE t06_t01
+    ADD CONSTRAINT `fk_relacion_7` FOREIGN KEY (t06id)
+        REFERENCES t06software(t06id);
+
+ALTER TABLE t04_t01
+    ADD CONSTRAINT `fk_relacion_8` FOREIGN KEY (t01id)
+        REFERENCES t01miembros(t01id);
+
+ALTER TABLE t04_t01
+    ADD CONSTRAINT `fk_relacion_9` FOREIGN KEY (t04id)
+        REFERENCES t04ponencias(t04id);

@@ -1,0 +1,105 @@
+Realizados:
+
++El texto del acerca, centrado vertical, agrandar el tamaño del texto, disminuir las imágenes, revisar la ortografía
+(Disminuidas las imagenes, centrado verticalmente por el aumento del tamaño)
++Colocar rojo en los subtítulos del about, rojo no muy brillante [PRUEBAS Y ENVIO]
+(Agregada la etiqueta necesaria pruebas hechas con 4 rojos distintos falta revision ingeniero felipe)
++Hacer que al hacer click al poster aparezca más grande
+(Hecho)
++En productividad quitar poster, quitar miembros, y colocarle colores por filas
+(Lo de colores ya esta, lo demas hecho)
++Quitar a los inactivos
+(Hecho)
++Dejar el nombre de los integrantes del color azul como cuando está activado, pero siempre
+(Hecho)
++Estado y correo en negro
+(Hecho)
++En actividades quitar el póster y miembros
+(Hechos)
++En todas actividades quitar el póster y miembros
+(Hecho)
++En contactarnos quitar el formulario
+(Hecho)
++El logo de Cyseth hacer pruebas para que se vea más el texto, se puede cambiar la imagen de fondo para un fondo más palido[PRUEBAS Y ENVIO]
+(Prueba realizada)
++En inicio en dependencias hacer los logos un poco más pequeños pero que estén más separados
+(Disminuidos al 80% para estar mas separados)
++Cambiar la palabra dependencias por algo diferente parecido a patrocionadores, organizadores o algo así, pero no esas, tampoco usar "Con el apoyo"
+(Usado "Bajo el acompañamiento de")
++En el footer, el logo de unillanos colocarle margenes más amplios
+(Agregado)
++En el footer justificar ambas imágenes
+(Justificado)
++Colocarle un bordesito blanco a la foto
+(Colocado con codigo css)
++Cambiar el fav.ico
+(Cambiado por el que no tiene fondo)
++Lo de proyectos debe ser desplegable como lo de la página de gitexc
+(Colocado, y ajustado, falta revisión)
++Para talleres también colocarlo en el formato de los proyectos de gitexc
+(Cambiado, pero falta colocar los datos que son, por ahora esta con cosas random)
++Agregar lo del civilac y gruplac
+(Agregado, con hipervinculo)
++En inicio cambiar la imagen de la mitad
+(Cambiado)
+
+Photoshop y fuera:
+
++En los integrantes las imágenes deben quedar redondas
++En la esquina superior derecha de cada foto colocar el logo de cyseth, que no quede tan pegado al borde
++Pedirles a todos que la foto sea con el buzo del grupo o con buzo negro
++Pedir el Civilac y gruplac a cada miembro
+
+Correcciones:
+
+Subtitulos del about al color del acerca activado
+(Cambiado)
+CvLAc colocarlo del rojo que estan los subtitulos en acerca
+(Cambiado a style="color:#DC143C")
+El logo horizontal y mas pequeño
+(Hecho)
+EN el slide con los logos cambiar el color de los botones, uniformarlos y cambiar la letra
+(Uniformados y cambiado con negrilla)
+INtegrantes que no han enviado foto colocarles una silueta
+(Colocado)
+Cambiar el tamaño del logo de Cyseth en el slide
+(Arreglado a codigo)
+
+Correcciones:
+
+CvLac en negrilla en integrantes, y cambiar el color de los estudiantes como el de los profesores
+(Colocado)
+Agregar al ingeniero Roger y al ingeniero Elvis
+(Colocados)
+Cambiar la descripcion de los profesores a "Ingeniero de sistemas, especialista y magíster en el área de Telemática, profesor investigador adscrito a la escuela de ingenieria. Líneas de investigación: telematica y ciberseguridad, computación"
+(Cambiado)
+(Para el ing. Roger y Elvis especialista y mg en ingenieria de software y lineas ing. de spftware)
+(Cambiado)
+Editar descripcion de estudiantes: Estudiante de ingeniería de sistemas, auxiliar de investigación en el área de telematica y ciberseguridad con amplias habilidades en desarrollo de software y telemática.
+(Editado)
+Colocar la de la inge Diana como una silueta
+(Colocado)
+Permitir que en ponencias se puedan agregar varios autores.
+(Alterada la base de datos y la tabla)
+En contactanos colocar una foto de la entrada de Gitexc, recordarle al ingeniero
+(Puesta dentro de un jumbotron)
+Quitar autores, colocar año de publicacion en t_revistas
+(Quitado y colocado el año en las revistas)
+En ponencias los eventos en minuscula, y fecha y lugar en evento
+(Corregido lo de los eventos en minuscula, agregado fecha y lugar)
+Dejar los eventos en el formato de los proyectos y meter los afiches como la imagen, agregar los eventos de los afiches
+(Cambiado el formato, agregados los afiches como imagenes, agregados los eventos de los afiches)
+Agregar los softwares del CvLAC
+(Agregados con todo)
+Proyectos sacarlo de los proyectos y de la pagina de Gitexc
+(Puesto en la base de datos)
+En proyectos agregar Línea de investigación y luego área, debajo, agregar año de ejecucion, ordenar del mas nuevo al mas antiguo
+(Agregados en la base de datos y agregado el order by en la secuencia sql y en el html)
+
+
+Buscar la presentacion de Cyseth y de ahí llenar lo de activiaddes
+
+
+Hacer una nueva pestaña que sea multimedia o galeria
+
+
